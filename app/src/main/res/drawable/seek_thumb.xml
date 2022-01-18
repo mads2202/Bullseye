@@ -1,0 +1,58 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size
+                android:width="@dimen/seek_bar_thumb_size"
+                android:height="@dimen/seek_bar_thumb_size" />
+            <solid android:color="@color/seek_bar_progress" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring"
+            android:innerRadiusRatio="2.1"
+            android:useLevel="false"
+            android:thickness="1dp">
+            <solid android:color="@android:color/holo_red_dark" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring"
+            android:innerRadiusRatio="2.5"
+            android:useLevel="false"
+            android:thickness="1dp">
+            <solid android:color="@android:color/holo_red_dark" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring"
+            android:innerRadiusRatio="3"
+            android:useLevel="false"
+            android:thickness="1dp">
+            <solid android:color="@android:color/holo_red_dark" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring"
+            android:innerRadiusRatio="4"
+            android:useLevel="false"
+            android:thickness="1dp">
+            <solid android:color="@android:color/holo_red_dark" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring"
+            android:innerRadiusRatio="6"
+            android:useLevel="false"
+            android:thickness="1dp">
+            <solid android:color="@android:color/holo_red_dark" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="ring"
+            android:innerRadiusRatio="10"
+            android:useLevel="false"
+            android:thickness="1dp">
+            <solid android:color="@android:color/holo_red_dark" />
+        </shape>
+    </item>
+</layer-list>

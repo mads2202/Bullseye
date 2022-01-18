@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Bullseye/app/src/main/res/drawable/custombackground.xml" value="0.22" />
+        <entry key="..\:/Bullseye/app/src/main/res/drawable/seek_bar.xml" value="0.22135416666666666" />
+        <entry key="..\:/Bullseye/app/src/main/res/drawable/seek_thumb.xml" value="0.22135416666666666" />
+        <entry key="..\:/Bullseye/app/src/main/res/layout/activity_game.xml" value="0.25" />
+        <entry key="..\:/Bullseye/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Bullseye/app/src/main/res/layout/enter_name_dialog.xml" value="0.20520833333333333" />
+        <entry key="..\:/Bullseye/app/src/main/res/layout/players_layout_item.xml" value="0.2957427536231884" />
+        <entry key="..\:/Bullseye/app/src/main/res/layout/records_activity.xml" value="0.2957427536231884" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
